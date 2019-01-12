@@ -2,6 +2,8 @@
 
 Special thanks to Toke Faurby (tokf@itu.dk) and Justina Marcinskaite (jusm@itu.dk) for forming a great team. 
 
+# Report:
+https://www.academia.edu/38132843/Towards_discrete_World_Models_in_Breakout_using_a_reinforcement_learning_agent
 
 # Discrete Latent Learning
 
